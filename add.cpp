@@ -3,7 +3,11 @@ using namespace std;
 
 int main(){
 		
+<<<<<<< HEAD
 int a;
+=======
+int a,b,c;
+>>>>>>> slave
 cout<<"enter the two numbers"<<endl;
 cin>>a>>b;
 cout<<"Numbers are entered"<<endl;
